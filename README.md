@@ -4,7 +4,7 @@
 
   <p>
     <a href="https://cachyos.org/"><img src="https://img.shields.io/badge/OS-CachyOS%20(Arch)-00d4aa?style=for-the-badge&logo=archlinux&logoColor=white" alt="CachyOS" /></a>
-    <img src="https://img.shields.io/badge/Hardware-RTX%205060%20Ti%2016GB%20%7C%20Zen%203-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
+    <img src="https://img.shields.io/badge/Hardware-RTX%205060%20Ti%2016GB%20%7C%20Blackwell%20GPU-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Hardware" />
     <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20Local%20Inference-7928CA?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
     <img src="https://img.shields.io/badge/Status-Hacking%20%26%20Building-ff5722?style=for-the-badge" alt="Status" />
   </p>
